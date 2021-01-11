@@ -10,3 +10,7 @@
 <p>Capítulo 1</p>
 
 ![EstudoCaso1](https://user-images.githubusercontent.com/11504380/104217888-b8213900-541a-11eb-9598-94dc341d357c.png)
+
+<p>Capitulo 2</p>
+
+![EstudoCaso2](https://user-images.githubusercontent.com/11504380/104218140-10583b00-541b-11eb-91cb-647571c4d23e.png)
