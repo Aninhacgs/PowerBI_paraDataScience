@@ -7,11 +7,11 @@
 <li> Capítulo 4 - Modelagem, Relacionamento e DAX </li>
 
 <h3>Dashboard de Cada Capítulo</h3>
-<p>Capítulo 1</p>
+<p>Capítulo 2</p>
 
 ![EstudoCaso1](https://user-images.githubusercontent.com/11504380/104217888-b8213900-541a-11eb-9598-94dc341d357c.png)
 
-<p>Capitulo 2</p>
+<p>Capitulo 3</p>
 
 ![EstudoCaso2](https://user-images.githubusercontent.com/11504380/104218140-10583b00-541b-11eb-91cb-647571c4d23e.png)
 
