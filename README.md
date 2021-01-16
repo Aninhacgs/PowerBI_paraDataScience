@@ -19,3 +19,7 @@
 <p>Projeto 1</p>
 
 ![Dashboard_Projeto1](https://user-images.githubusercontent.com/11504380/104812521-8bd23780-57e1-11eb-97dd-96cf7ea00021.png)
+
+<p>Filtro Cruzado</p>
+
+![DashboardFiltroCruzado](https://user-images.githubusercontent.com/11504380/104812552-d3f15a00-57e1-11eb-9027-62d1a3dbec01.png)
